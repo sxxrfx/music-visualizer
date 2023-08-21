@@ -15,9 +15,7 @@ use wavers::{read, AudioConversion};
 
 const SCREEN_HEIGHT: i32 = 900;
 const FPS: u32 = 60;
-// const FONT_PATH: &str = "assets/fonts/FiraCode-SemiBold.ttf";
-// const FONT_PATH: &str = "assets/fonts/SF-Pro.ttf";
-const FONT_PATH: &str = "assets/fonts/SFMono-Medium.otf";
+const FONT_PATH: &str = "assets/fonts/FiraCode-SemiBold.ttf";
 const FILE_PATH: &str = "assets/audio/song.wav";
 const FONT_SIZE: f32 = 16.0;
 const FONT_OFFSET: f32 = 1.0;
